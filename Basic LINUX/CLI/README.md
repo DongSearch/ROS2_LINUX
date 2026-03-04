@@ -76,3 +76,10 @@
 * chmod : owner - group - others ( 4:write, 2:read, 1 execute) chmod 755 filename
 * +,- : add permisson, supprimer permission
 
+### Others
+| 명령어   | 설명     |
+| ----- | ------ |
+| /    | root 디렉토리    |
+| ~    | home 디렉토리    |
+| .    | 현재 디렉토리    |
+|..    | 상위 디렉토리    |
