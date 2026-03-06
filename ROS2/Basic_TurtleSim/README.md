@@ -39,3 +39,13 @@ They publish velocity commands to the topics:
 The turtlesim node subscribes to these topics to control the turtles.
 
 <img width="834" height="367" alt="image" src="https://github.com/user-attachments/assets/70436313-a08e-4683-80f0-669d6ce2f333" />
+
+
+
+
+
+## Assign node name 
+```
+ros2 run turtlesim turtlesim_node --ros-args -r __ns:=/rokey1 -r __node:=vector1
+```
+<img width="720" height="250" alt="image" src="https://github.com/user-attachments/assets/916c1a47-db0d-4ce8-b644-833078162a08" />
