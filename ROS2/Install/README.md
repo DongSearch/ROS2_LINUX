@@ -1,4 +1,4 @@
-## Conditon and Installation
+## Conditon and Installation(humble)
 - Ubuntu 22.04 LTS(Humble)
 - check to Ubuntu version
 ```
