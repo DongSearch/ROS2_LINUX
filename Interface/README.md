@@ -46,7 +46,7 @@ source install/setup.bash
 
 ros2 interface show interface name/srv/..
 ```
-
+!!!! don't forget to add dependencies to normal package we use!!!!
 
 ## ROS2 package.xml Key Tags for Interface Packages
 
