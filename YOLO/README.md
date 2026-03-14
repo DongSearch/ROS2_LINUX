@@ -11,3 +11,6 @@
 - so to adapt it to our project, we need to do fine tuning with small or large dataset
 
 # Result
+![detection](image/detection.png)
+![detection](image/cup.png)
+![detection](images/wrong.png)
