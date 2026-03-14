@@ -13,4 +13,4 @@
 # Result
 ![detection](image/detection.png)
 ![detection](image/cup.png)
-![detection](images/wrong.png)
+![detection](image/wrong.png)
