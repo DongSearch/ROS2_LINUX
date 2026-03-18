@@ -1,0 +1,10 @@
+# Goal
+string turn_on
+---
+# Result
+string[] status
+bool success
+---
+# Feedback
+string status
+
